@@ -18,7 +18,7 @@ int i,j,option,k, count;
 i=option=count = 0;
 
 printf("\n\n## LIBRARY MANAGEMENT ##\n");
-while(option!=5)
+while(option<5)
 {
 printf("\n1. Add book information\n");
 printf("2. Display All Books Available \n");
